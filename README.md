@@ -54,9 +54,9 @@
 * [Разведочный анализ данных (EDA) сервиса Яндекс Афиша]
 * [Анализ рынка заведений общественного питания Москвы](https://github.com/AHHAMATBEEBA/Python_food_analysis)
 * [Исследование стартапов для инвесторов](https://github.com/AHHAMATBEEBA/Python_StartUp)
-* [Анализ активности пользователей сервиса Яндекс Книги]
+* [Анализ активности пользователей сервиса Яндекс Книги](https://github.com/AHHAMATBEEBA/Python_Book_Msk_SPb)
 * [Анализ рынка видеоигр](https://github.com/AHHAMATBEEBA/Python_gaming_platforms)
 
 ⚖️ A/B-тестирование 
-* [Разработка A/B-тестирования для нового алгоритма рекомендаций]
-* [AB-тестирование нового интерфейса интернет-магазина]
+* [Разработка A/B-тестирования для нового алгоритма рекомендаций](https://github.com/AHHAMATBEEBA/Python_Scrolling_feed)
+* [AB-тестирование нового интерфейса интернет-магазина](https://github.com/AHHAMATBEEBA/Python_Interface_online_store)
